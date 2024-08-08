@@ -1,2 +1,2 @@
-# python2
-python programing
+# python
+print("hellow');
